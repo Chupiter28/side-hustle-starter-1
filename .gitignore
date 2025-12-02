@@ -1,1 +1,1 @@
-(copy from artifact)
+copy from artifact
