@@ -1,1 +1,1 @@
-(copy demo code from interactive prototype)
+Copy demo code from interactive prototype
